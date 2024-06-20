@@ -1,0 +1,1 @@
+TFF for Federated Learning Research Model and Update Compression : Used the EMNIST dataset to demonstrate how to enable lossy compression algorithms to reduce communication cost in the Federated Averaging algorithm using the tff.learning API. 
